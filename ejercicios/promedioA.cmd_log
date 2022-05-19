@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "D:/circuitos/ejercicios/promedioA.xst" -ofn "D:/circuitos/ejercicios/promedioA.syr" 

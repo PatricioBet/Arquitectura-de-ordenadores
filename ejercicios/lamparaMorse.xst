@@ -1,0 +1,5 @@
+set -tmpdir "D:/circuitos/ejercicios/xst/projnav.tmp"
+set -xsthdpdir "D:/circuitos/ejercicios/xst"
+elaborate
+-ifn lamparaMorse.prj
+-ifmt mixed

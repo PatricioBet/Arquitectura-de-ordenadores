@@ -1,0 +1,51 @@
+V3 31
+FL D:/circuitos/ejercicios/circuitoFlujoDatosVector.vhd 2022/05/18.21:42:50 P.20131013
+EN work/circuitoFlujoDatosVector 1652928177 \
+      FL D:/circuitos/ejercicios/circuitoFlujoDatosVector.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/circuitoFlujoDatosVector/Behavioral 1652928178 \
+      FL D:/circuitos/ejercicios/circuitoFlujoDatosVector.vhd \
+      EN work/circuitoFlujoDatosVector 1652928177
+FL D:/circuitos/ejercicios/compuertaand.vhd 2022/05/18.20:41:25 P.20131013
+EN work/compuertaand 1652924608 FL D:/circuitos/ejercicios/compuertaand.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/compuertaand/Behavioral 1652924609 \
+      FL D:/circuitos/ejercicios/compuertaand.vhd EN work/compuertaand 1652924608
+FL D:/circuitos/ejercicios/fabricaArroz.vhd 2022/05/18.22:26:44 P.20131013
+EN work/fabricaArroz 1652930813 FL D:/circuitos/ejercicios/fabricaArroz.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/fabricaArroz/Behavioral 1652930814 \
+      FL D:/circuitos/ejercicios/fabricaArroz.vhd EN work/fabricaArroz 1652930813
+FL D:/circuitos/ejercicios/lamparaMorse.vhd 2022/05/18.22:14:17 P.20131013
+EN work/lamparaMorse 0 FL D:/circuitos/ejercicios/lamparaMorse.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/lamparaMorse/Behavioral 0 \
+      FL D:/circuitos/ejercicios/lamparaMorse.vhd EN work/lamparaMorse 0
+FL D:/circuitos/ejercicios/Multiplexor.vhd 2022/05/18.21:33:36 P.20131013
+EN work/Multiplexor 1652931496 FL D:/circuitos/ejercicios/Multiplexor.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/Multiplexor/Behavioral 1652931497 \
+      FL D:/circuitos/ejercicios/Multiplexor.vhd EN work/Multiplexor 1652931496
+FL D:/circuitos/ejercicios/Promedio.vhd 2022/05/18.20:55:22 P.20131013
+EN work/Promedio 1652925457 FL D:/circuitos/ejercicios/Promedio.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/Promedio/Behavioral 1652925458 \
+      FL D:/circuitos/ejercicios/Promedio.vhd EN work/Promedio 1652925457
+FL D:/circuitos/ejercicios/promedioA.vhd 2022/05/18.20:49:28 P.20131013
+AR work/promedioA/Behavioral 0 FL D:/circuitos/ejercicios/promedioA.vhd \
+      EN work/promedioA 0
+FL D:/circuitos/ejercicios/Proyecto.vhd 2022/05/18.20:54:35 P.20131013
+EN work/Proyecto 1652925279 FL D:/circuitos/ejercicios/Proyecto.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/Proyecto/Behavioral 1652925280 \
+      FL D:/circuitos/ejercicios/Proyecto.vhd EN work/Proyecto 1652925279
+FL D:/circuitos/ejercicios/proyecto1-9.vhd 2022/05/18.20:50:33 P.20131013
+EN work/poyecto1 0 FL D:/circuitos/ejercicios/proyecto1-9.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/proyecto1/Behavioral 0 \
+      FL D:/circuitos/ejercicios/proyecto1-9.vhd EN work/proyecto1 0
+FL D:/circuitos/ejercicios/ventilador.vhd 2022/05/18.22:19:14 P.20131013
+EN work/ventilador 1652930361 FL D:/circuitos/ejercicios/ventilador.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/ventilador/Behavioral 1652930362 \
+      FL D:/circuitos/ejercicios/ventilador.vhd EN work/ventilador 1652930361
