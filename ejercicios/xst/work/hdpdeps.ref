@@ -1,4 +1,4 @@
-V3 31
+V3 34
 FL D:/circuitos/ejercicios/circuitoFlujoDatosVector.vhd 2022/05/18.21:42:50 P.20131013
 EN work/circuitoFlujoDatosVector 1652928177 \
       FL D:/circuitos/ejercicios/circuitoFlujoDatosVector.vhd \
@@ -11,6 +11,11 @@ EN work/compuertaand 1652924608 FL D:/circuitos/ejercicios/compuertaand.vhd \
       PB ieee/std_logic_1164 1381692176
 AR work/compuertaand/Behavioral 1652924609 \
       FL D:/circuitos/ejercicios/compuertaand.vhd EN work/compuertaand 1652924608
+FL D:/circuitos/ejercicios/ejercicio25.vhd 2022/05/23.15:10:26 P.20131013
+EN work/ejercicio25 1653336631 FL D:/circuitos/ejercicios/ejercicio25.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/ejercicio25/Behavioral 1653336632 \
+      FL D:/circuitos/ejercicios/ejercicio25.vhd EN work/ejercicio25 1653336631
 FL D:/circuitos/ejercicios/fabricaArroz.vhd 2022/05/18.22:26:44 P.20131013
 EN work/fabricaArroz 1652930813 FL D:/circuitos/ejercicios/fabricaArroz.vhd \
       PB ieee/std_logic_1164 1381692176

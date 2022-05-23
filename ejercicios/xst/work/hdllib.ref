@@ -4,6 +4,7 @@ AR fabricaarroz behavioral D:/circuitos/ejercicios/fabricaArroz.vhd sub00/vhpl12
 EN multiplexor NULL D:/circuitos/ejercicios/Multiplexor.vhd sub00/vhpl13 1652931496
 AR multiplexor behavioral D:/circuitos/ejercicios/Multiplexor.vhd sub00/vhpl14 1652931497
 EN ventilador NULL D:/circuitos/ejercicios/ventilador.vhd sub00/vhpl09 1652930361
+EN ejercicio25 NULL D:/circuitos/ejercicios/ejercicio25.vhd sub00/vhpl15 1653336631
 EN lamparamorse NULL D:/circuitos/ejercicios/lamparaMorse.vhd sub00/vhpl08 1652929791
 EN compuertaand NULL D:/circuitos/ejercicios/compuertaand.vhd sub00/vhpl00 1652924608
 AR proyecto behavioral D:/circuitos/ejercicios/Proyecto.vhd sub00/vhpl05 1652925280
@@ -12,4 +13,5 @@ EN fabricaarroz NULL D:/circuitos/ejercicios/fabricaArroz.vhd sub00/vhpl11 16529
 AR ventilador behavioral D:/circuitos/ejercicios/ventilador.vhd sub00/vhpl10 1652930362
 EN circuitoflujodatosvector NULL D:/circuitos/ejercicios/circuitoFlujoDatosVector.vhd sub00/vhpl06 1652928177
 AR compuertaand behavioral D:/circuitos/ejercicios/compuertaand.vhd sub00/vhpl01 1652924609
+AR ejercicio25 behavioral D:/circuitos/ejercicios/ejercicio25.vhd sub00/vhpl16 1653336632
 EN promedio NULL D:/circuitos/ejercicios/Promedio.vhd sub00/vhpl02 1652925457

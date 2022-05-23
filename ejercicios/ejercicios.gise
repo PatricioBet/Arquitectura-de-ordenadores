@@ -46,6 +46,9 @@
     <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="compuertaand.prj"/>
     <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="compuertaand.stx"/>
     <file xil_pn:fileType="FILE_XST" xil_pn:name="compuertaand.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="ejercicio25.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="ejercicio25.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="ejercicio25.xst"/>
     <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="fabricaArroz.prj"/>
     <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="fabricaArroz.stx"/>
     <file xil_pn:fileType="FILE_XST" xil_pn:name="fabricaArroz.xst"/>
@@ -77,6 +80,7 @@
   <transforms xmlns="http://www.xilinx.com/XMLSchema">
     <transform xil_pn:end_ts="1652924996" xil_pn:name="TRAN_copyInitialToXSTAbstractSynthesis" xil_pn:start_ts="1652924996">
       <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
     </transform>
     <transform xil_pn:end_ts="1652925455" xil_pn:name="TRAN_schematicsToHdl" xil_pn:prop_ck="712439831530126362" xil_pn:start_ts="1652925455">
       <status xil_pn:value="SuccessfullyRun"/>
