@@ -1,0 +1,5 @@
+set -tmpdir "D:/circuitos/maquinaEstado/xst/projnav.tmp"
+set -xsthdpdir "D:/circuitos/maquinaEstado/xst"
+elaborate
+-ifn dispensador.prj
+-ifmt mixed

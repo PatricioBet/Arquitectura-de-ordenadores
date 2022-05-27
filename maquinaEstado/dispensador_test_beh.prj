@@ -1,0 +1,2 @@
+vhdl work "dispensadorAlcohol.vhd"
+vhdl work "dispensador_test.vhd"

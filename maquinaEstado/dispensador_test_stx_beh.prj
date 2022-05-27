@@ -1,0 +1,2 @@
+vhdl isim_temp "dispensadorAlcohol.vhd"
+vhdl isim_temp "dispensador_test.vhd"

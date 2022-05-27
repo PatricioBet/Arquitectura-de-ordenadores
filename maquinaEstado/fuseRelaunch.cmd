@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "D:/circuitos/maquinaEstado/dispensador_test_isim_beh.exe" -prj "D:/circuitos/maquinaEstado/dispensador_test_beh.prj" "work.dispensador_test" 

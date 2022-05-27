@@ -1,0 +1,29 @@
+Command line:
+   dispensador_test_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  55869
+
+Fri May 27 11:57:13 2022
+
+
+ Elaboration Time: 0.0625 sec
+
+ Current Memory Usage: 5150.18 Meg
+
+ Total Signals          : 14
+ Total Nets             : 9
+ Total Signal Drivers   : 8
+ Total Blocks           : 3
+ Total Primitive Blocks : 2
+ Total Processes        : 6
+ Total Traceable Variables  : 9
+ Total Scalar Nets and Variables : 370
+Total Line Count : 32
+
+ Total Simulation Time: 1.01563 sec
+
+ Current Memory Usage: 4678.32 Meg
+
+Fri May 27 12:05:28 2022
+
