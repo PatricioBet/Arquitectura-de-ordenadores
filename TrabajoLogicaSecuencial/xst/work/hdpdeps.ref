@@ -1,0 +1,99 @@
+V3 50
+FL D:/circuitos/TrabajoLogicaSecuencial/AsignacionPins.vhd 2022/07/11.21:25:31 P.20131013
+AR work/contador/pins -1 \
+      FL D:/circuitos/TrabajoLogicaSecuencial/AsignacionPins.vhd EN work/contador 1657594556
+FL D:/circuitos/TrabajoLogicaSecuencial/ContadorBinario4Bits.vhd 2022/07/11.21:08:20 P.20131013
+AR work/contador/cuenta -1 \
+      FL D:/circuitos/TrabajoLogicaSecuencial/ContadorBinario4Bits.vhd \
+      EN work/contador 1657594556
+FL D:/circuitos/TrabajoLogicaSecuencial/ContadorConResetYEnable.vhd 2022/07/11.21:37:18 P.20131013
+FL D:/circuitos/TrabajoLogicaSecuencial/ContadorEnteros.vhd 2022/07/11.21:44:18 P.20131013
+EN work/cont 1657597533 \
+      FL D:/circuitos/TrabajoLogicaSecuencial/ContadorEnteros.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/std_logic_arith 1381692177 \
+      PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/cont/arq_cont 1657597534 \
+      FL D:/circuitos/TrabajoLogicaSecuencial/ContadorEnteros.vhd EN work/cont 1657597533
+FL D:/circuitos/TrabajoLogicaSecuencial/ContadorResetYCargaParalelo.vhd 2022/07/11.22:45:30 P.20131013
+FL D:/circuitos/TrabajoLogicaSecuencial/ContadorUpDown.vhd 2022/07/11.21:49:00 P.20131013
+AR work/contador/a_contador -1 \
+      FL D:/circuitos/TrabajoLogicaSecuencial/ContadorUpDown.vhd EN work/contador 1657594556
+FL D:/circuitos/TrabajoLogicaSecuencial/ContadorUpDownConCargaParalelo.vhd 2022/07/11.21:55:40 P.20131013
+EN work/contador 1657594556 \
+      FL D:/circuitos/TrabajoLogicaSecuencial/ContadorUpDownConCargaParalelo.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/std_logic_arith 1381692177 \
+      PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/contador/modulo 1657594557 \
+      FL D:/circuitos/TrabajoLogicaSecuencial/ContadorUpDownConCargaParalelo.vhd \
+      EN work/contador 1657594556
+FL D:/circuitos/TrabajoLogicaSecuencial/DiagramaDeEstados.vhd 2022/07/11.22:59:02 P.20131013
+EN work/MaquinaEstado 1657598354 \
+      FL D:/circuitos/TrabajoLogicaSecuencial/DiagramaDeEstados.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/MaquinaEstado/Behavioral 1657598355 \
+      FL D:/circuitos/TrabajoLogicaSecuencial/DiagramaDeEstados.vhd \
+      EN work/MaquinaEstado 1657598354
+FL D:/circuitos/TrabajoLogicaSecuencial/DiagramaEstados.vhd 2022/07/11.23:12:48 P.20131013
+EN work/diag 1657599171 \
+      FL D:/circuitos/TrabajoLogicaSecuencial/DiagramaEstados.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/diag/arq_diag 1657599172 \
+      FL D:/circuitos/TrabajoLogicaSecuencial/DiagramaEstados.vhd EN work/diag 1657599171
+FL D:/circuitos/TrabajoLogicaSecuencial/FlipFlopConSR.vhd 2022/07/11.16:17:11 P.20131013
+EN work/ffsr 1657574260 FL D:/circuitos/TrabajoLogicaSecuencial/FlipFlopConSR.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/ffsr/a_ffsr 1657574261 \
+      FL D:/circuitos/TrabajoLogicaSecuencial/FlipFlopConSR.vhd EN work/ffsr 1657574260
+FL D:/circuitos/TrabajoLogicaSecuencial/FlipFlopDBA.vhd 2022/07/11.15:43:54 P.20131013
+EN work/ffd 1657572241 FL D:/circuitos/TrabajoLogicaSecuencial/FlipFlopDBA.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/ffd/arq_ffd 1657572242 \
+      FL D:/circuitos/TrabajoLogicaSecuencial/FlipFlopDBA.vhd EN work/ffd 1657572241
+FL D:/circuitos/TrabajoLogicaSecuencial/FlipFlopDConReset.vhd 2022/07/11.15:49:20 P.20131013
+EN work/FLIP 1657597824 \
+      FL D:/circuitos/TrabajoLogicaSecuencial/FlipFlopDConReset.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/FLIP/FLOP 1657597825 \
+      FL D:/circuitos/TrabajoLogicaSecuencial/FlipFlopDConReset.vhd EN work/FLIP 1657597824
+FL D:/circuitos/TrabajoLogicaSecuencial/FlipFlopDconRyE.vhd 2022/07/11.16:09:55 P.20131013
+FL D:/circuitos/TrabajoLogicaSecuencial/GenericDisenioContadores.vhd 2022/07/11.22:56:48 P.20131013
+EN work/ejemplogen 1657598210 \
+      FL D:/circuitos/TrabajoLogicaSecuencial/GenericDisenioContadores.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/std_logic_arith 1381692177
+AR work/ejemplogen/Behavioral 1657598211 \
+      FL D:/circuitos/TrabajoLogicaSecuencial/GenericDisenioContadores.vhd \
+      EN work/ejemplogen 1657598210
+FL D:/circuitos/TrabajoLogicaSecuencial/LatchConcurrente.vhd 2022/07/11.14:12:24 P.20131013
+FL D:/circuitos/TrabajoLogicaSecuencial/LatchProceso.vhd 2022/07/11.14:19:50 P.20131013
+EN work/latch 1657567210 FL D:/circuitos/TrabajoLogicaSecuencial/LatchProceso.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/latch/Behavioral 1657567211 \
+      FL D:/circuitos/TrabajoLogicaSecuencial/LatchProceso.vhd EN work/latch 1657567210
+FL D:/circuitos/TrabajoLogicaSecuencial/MegafuncionesGeneric.vhd 2022/07/11.22:48:09 P.20131013
+EN work/megafunciones_Generic 1657597699 \
+      FL D:/circuitos/TrabajoLogicaSecuencial/MegafuncionesGeneric.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/std_logic_arith 1381692177
+AR work/megafunciones_Generic/Behavioral 1657597700 \
+      FL D:/circuitos/TrabajoLogicaSecuencial/MegafuncionesGeneric.vhd \
+      EN work/megafunciones_Generic 1657597699
+FL D:/circuitos/TrabajoLogicaSecuencial/RegistroParalelo.vhd 2022/07/11.20:43:16 P.20131013
+EN work/reg 1657590202 \
+      FL D:/circuitos/TrabajoLogicaSecuencial/RegistroParalelo.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/reg/arqreg 1657590203 \
+      FL D:/circuitos/TrabajoLogicaSecuencial/RegistroParalelo.vhd EN work/reg 1657590202
+FL D:/circuitos/TrabajoLogicaSecuencial/RegistroParalelo4Bits.vhd 2022/07/11.20:48:33 P.20131013
+EN work/Reg4 1657590531 \
+      FL D:/circuitos/TrabajoLogicaSecuencial/RegistroParalelo4Bits.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/Reg4/a_reg4 1657590532 \
+      FL D:/circuitos/TrabajoLogicaSecuencial/RegistroParalelo4Bits.vhd \
+      EN work/Reg4 1657590531
+FL D:/circuitos/TrabajoLogicaSecuencial/registroSerie.vhd 2022/07/11.16:27:35 P.20131013
+FL D:/circuitos/TrabajoLogicaSecuencial/registroSerieConVariables.vhd 2022/07/11.20:38:54 P.20131013
+EN work/registro 1657589936 \
+      FL D:/circuitos/TrabajoLogicaSecuencial/registroSerieConVariables.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/registro/serie 1657589937 \
+      FL D:/circuitos/TrabajoLogicaSecuencial/registroSerieConVariables.vhd \
+      EN work/registro 1657589936

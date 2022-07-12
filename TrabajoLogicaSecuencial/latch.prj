@@ -1,0 +1,2 @@
+vhdl work "LatchProceso.vhd"
+vhdl work "LatchConcurrente.vhd"
