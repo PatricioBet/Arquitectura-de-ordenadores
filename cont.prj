@@ -1,0 +1,2 @@
+vhdl work "ContadorEnteros.vhd"
+vhdl work "ContadorResetYCargaParalelo.vhd"

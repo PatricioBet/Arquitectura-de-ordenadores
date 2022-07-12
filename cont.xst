@@ -1,0 +1,5 @@
+set -tmpdir "D:/circuitos/TrabajoLogicaSecuencial/xst/projnav.tmp"
+set -xsthdpdir "D:/circuitos/TrabajoLogicaSecuencial/xst"
+elaborate
+-ifn cont.prj
+-ifmt mixed
