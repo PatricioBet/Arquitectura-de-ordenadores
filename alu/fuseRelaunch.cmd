@@ -1,1 +1,0 @@
--intstyle "ise" -incremental -o "D:/circuitos/alu/asignar_isim_beh.exe" -prj "D:/circuitos/alu/asignar_beh.prj" "work.asignar" 

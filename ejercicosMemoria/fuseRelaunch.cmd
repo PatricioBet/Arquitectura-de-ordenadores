@@ -1,1 +1,0 @@
--intstyle "ise" -incremental -o "D:/circuitos/ejercicosMemoria-APU/testROM_isim_beh.exe" -prj "D:/circuitos/ejercicosMemoria-APU/testROM_beh.prj" "work.testROM" 
