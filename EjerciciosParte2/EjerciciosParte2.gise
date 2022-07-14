@@ -101,17 +101,22 @@
     <transform xil_pn:end_ts="1657801126" xil_pn:name="TRAN_copyInitialToAbstractSimulation" xil_pn:start_ts="1657801126">
       <status xil_pn:value="SuccessfullyRun"/>
     </transform>
-    <transform xil_pn:end_ts="1657841953" xil_pn:in_ck="-648544300543556330" xil_pn:name="TRAN_copyAbstractToPostAbstractSimulation" xil_pn:start_ts="1657842169">
-      <status xil_pn:value="ExecutingRun"/>
+    <transform xil_pn:end_ts="1657842601" xil_pn:in_ck="-395054474661825144" xil_pn:name="TRAN_copyAbstractToPostAbstractSimulation" xil_pn:start_ts="1657842600">
+      <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForInputs"/>
+      <status xil_pn:value="InputAdded"/>
+      <status xil_pn:value="InputChanged"/>
       <outfile xil_pn:name="ContadorA15_9.vhd"/>
       <outfile xil_pn:name="ContadorA245_12.vhd"/>
       <outfile xil_pn:name="ContadorA9_10.vhd"/>
       <outfile xil_pn:name="ContadorAdcendenteDescendente8.vhd"/>
+      <outfile xil_pn:name="ContadorAleatorio19.vhd"/>
       <outfile xil_pn:name="ContadorSecuencia6.vhd"/>
       <outfile xil_pn:name="ContadorSimple7.vhd"/>
       <outfile xil_pn:name="Cronometro11.vhd"/>
       <outfile xil_pn:name="DetectorSecuencia16.vhd"/>
+      <outfile xil_pn:name="DetectorSecuenciaZ17.vhd"/>
       <outfile xil_pn:name="DiagramaDeEstado13.vhd"/>
       <outfile xil_pn:name="DiagramaDeEstados14.vhd"/>
       <outfile xil_pn:name="FlipFlopT2.vhd"/>
@@ -119,6 +124,7 @@
       <outfile xil_pn:name="Registro4Bits3.vhd"/>
       <outfile xil_pn:name="RegistroDesplazamientoSerie4.vhd"/>
       <outfile xil_pn:name="RegistroSemaforo5.vhd"/>
+      <outfile xil_pn:name="SistemaSecuencial18.vhd"/>
       <outfile xil_pn:name="SrmaforoMejorado15.vhd"/>
       <outfile xil_pn:name="TBContadorA15_9.vhd"/>
       <outfile xil_pn:name="TBContadorA245_12.vhd"/>
@@ -127,6 +133,8 @@
       <outfile xil_pn:name="TBContadorSecuencial6.vhd"/>
       <outfile xil_pn:name="TBContadorSimple7.vhd"/>
       <outfile xil_pn:name="TBCronometro11.vhd"/>
+      <outfile xil_pn:name="TBDetectorSecuencia16.vhd"/>
+      <outfile xil_pn:name="TBDetectorSecuenciaZ17.vhd"/>
       <outfile xil_pn:name="TBDiagramaDeEstados14.vhd"/>
       <outfile xil_pn:name="TBDiagramaDesEstado13.vhd"/>
       <outfile xil_pn:name="TBFlipFlopJK.vhd"/>
@@ -135,6 +143,7 @@
       <outfile xil_pn:name="TBRegistroDesplazamientoSerie4.vhd"/>
       <outfile xil_pn:name="TBRegistroSemaforo5.vhd"/>
       <outfile xil_pn:name="TBSemaforoMejorado15.vhd"/>
+      <outfile xil_pn:name="TBSistemaSecuencial18.vhd"/>
     </transform>
     <transform xil_pn:end_ts="1657841405" xil_pn:name="TRAN_xawsToSimhdl" xil_pn:prop_ck="7235805690289469603" xil_pn:start_ts="1657841405">
       <status xil_pn:value="SuccessfullyRun"/>
