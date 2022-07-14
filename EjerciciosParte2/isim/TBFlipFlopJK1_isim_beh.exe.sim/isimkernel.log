@@ -1,0 +1,29 @@
+Command line:
+   TBFlipFlopJK1_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  54660
+
+Sun Jul 10 19:31:28 2022
+
+
+ Elaboration Time: 0.03125 sec
+
+ Current Memory Usage: 5150.19 Meg
+
+ Total Signals          : 12
+ Total Nets             : 7
+ Total Signal Drivers   : 7
+ Total Blocks           : 3
+ Total Primitive Blocks : 2
+ Total Processes        : 3
+ Total Traceable Variables  : 9
+ Total Scalar Nets and Variables : 368
+Total Line Count : 22
+
+ Total Simulation Time: 0.09375 sec
+
+ Current Memory Usage: 5150.19 Meg
+
+Sun Jul 10 19:31:51 2022
+

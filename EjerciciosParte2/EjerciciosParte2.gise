@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<generated_project xmlns="http://www.xilinx.com/XMLSchema" xmlns:xil_pn="http://www.xilinx.com/XMLSchema">
+
+  <!--                                                          -->
+
+  <!--             For tool use only. Do not edit.              -->
+
+  <!--                                                          -->
+
+  <!-- ProjectNavigator created generated project file.         -->
+
+  <!-- For use in tracking generated file and other information -->
+
+  <!-- allowing preservation of process status.                 -->
+
+  <!--                                                          -->
+
+  <!-- Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved. -->
+
+  <version xmlns="http://www.xilinx.com/XMLSchema">11.1</version>
+
+  <sourceproject xmlns="http://www.xilinx.com/XMLSchema" xil_pn:fileType="FILE_XISE" xil_pn:name="EjerciciosParte2.xise"/>
+
+  <files xmlns="http://www.xilinx.com/XMLSchema">
+    <file xil_pn:fileType="FILE_LSO" xil_pn:name=".lso"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="ContadorA15_9.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="ContadorA15_9.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="ContadorA15_9.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="ContadorA15_9_stx_beh.prj"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="ContadorA245_12.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="ContadorA245_12.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="ContadorA245_12.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="ContadorA9_10.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="ContadorA9_10.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="ContadorA9_10.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="ContadorSecuencia6.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="ContadorSecuencia6.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="ContadorSecuencia6.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="ContadorSimple7.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="ContadorSimple7.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="ContadorSimple7.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="Cronometro11.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="Cronometro11.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="Cronometro11.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="DiagramaDeEstado13.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="DiagramaDeEstado13.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="DiagramaDeEstado13.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="FlipFlopT2.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="FlipFlopT2.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="FlipFlopT2.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="Registro4Bits3.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="Registro4Bits3.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="Registro4Bits3.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="RegistroDesplazamientoSerie4.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="RegistroDesplazamientoSerie4.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="RegistroDesplazamientoSerie4.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="SrmaforoMejorado15.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="SrmaforoMejorado15.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="SrmaforoMejorado15.xst"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="TBContadorA15_9_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="TBContadorA15_9_stx_beh.prj"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="TBContadorA245_12_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="TBContadorA245_12_stx_beh.prj"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="TBContadorA9_10_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="TBContadorA9_10_stx_beh.prj"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="TBContadorAscendenteDescendente8_isim_beh.exe"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="TBContadorSecuencial6_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="TBContadorSecuencial6_stx_beh.prj"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="TBContadorSimple7_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="TBContadorSimple7_stx_beh.prj"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="TBCronometro11_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="TBCronometro11_stx_beh.prj"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="TBDiagramaDeEstados14_beh.prj"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="TBDiagramaDeEstados14_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_ISIM_MISC" xil_pn:name="TBDiagramaDeEstados14_isim_beh.wdb"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="TBDiagramaDeEstados14_stx_beh.prj"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="TBDiagramaDesEstado13_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="TBDiagramaDesEstado13_stx_beh.prj"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="TBFlipFlopJK_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="TBFlipFlopJK_stx_beh.prj"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="TBFlipFlopT2_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="TBFlipFlopT2_stx_beh.prj"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="TBRegistro4Bits3_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="TBRegistro4Bits3_stx_beh.prj"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="TBRegistroDesplazamientoSerie4_beh.prj"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="TBRegistroDesplazamientoSerie4_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_ISIM_MISC" xil_pn:name="TBRegistroDesplazamientoSerie4_isim_beh.wdb"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="TBRegistroDesplazamientoSerie4_stx_beh.prj"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="TBRegistroSemaforo5_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="TBRegistroSemaforo5_stx_beh.prj"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/xst.xmsgs"/>
+    <file xil_pn:fileType="FILE_LOG" xil_pn:name="fuse.log"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="isim"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_CMD" xil_pn:name="isim.cmd"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_LOG" xil_pn:name="isim.log"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_INI" xil_pn:name="xilinxsim.ini"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="xst"/>
+  </files>
+
+  <transforms xmlns="http://www.xilinx.com/XMLSchema">
+    <transform xil_pn:end_ts="1657801126" xil_pn:name="TRAN_copyInitialToAbstractSimulation" xil_pn:start_ts="1657801126">
+      <status xil_pn:value="SuccessfullyRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1657841953" xil_pn:in_ck="-648544300543556330" xil_pn:name="TRAN_copyAbstractToPostAbstractSimulation" xil_pn:start_ts="1657842169">
+      <status xil_pn:value="ExecutingRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="ContadorA15_9.vhd"/>
+      <outfile xil_pn:name="ContadorA245_12.vhd"/>
+      <outfile xil_pn:name="ContadorA9_10.vhd"/>
+      <outfile xil_pn:name="ContadorAdcendenteDescendente8.vhd"/>
+      <outfile xil_pn:name="ContadorSecuencia6.vhd"/>
+      <outfile xil_pn:name="ContadorSimple7.vhd"/>
+      <outfile xil_pn:name="Cronometro11.vhd"/>
+      <outfile xil_pn:name="DetectorSecuencia16.vhd"/>
+      <outfile xil_pn:name="DiagramaDeEstado13.vhd"/>
+      <outfile xil_pn:name="DiagramaDeEstados14.vhd"/>
+      <outfile xil_pn:name="FlipFlopT2.vhd"/>
+      <outfile xil_pn:name="FlipFopJK1.vhd"/>
+      <outfile xil_pn:name="Registro4Bits3.vhd"/>
+      <outfile xil_pn:name="RegistroDesplazamientoSerie4.vhd"/>
+      <outfile xil_pn:name="RegistroSemaforo5.vhd"/>
+      <outfile xil_pn:name="SrmaforoMejorado15.vhd"/>
+      <outfile xil_pn:name="TBContadorA15_9.vhd"/>
+      <outfile xil_pn:name="TBContadorA245_12.vhd"/>
+      <outfile xil_pn:name="TBContadorA9_10.vhd"/>
+      <outfile xil_pn:name="TBContadorAscendenteDescendente8.vhd"/>
+      <outfile xil_pn:name="TBContadorSecuencial6.vhd"/>
+      <outfile xil_pn:name="TBContadorSimple7.vhd"/>
+      <outfile xil_pn:name="TBCronometro11.vhd"/>
+      <outfile xil_pn:name="TBDiagramaDeEstados14.vhd"/>
+      <outfile xil_pn:name="TBDiagramaDesEstado13.vhd"/>
+      <outfile xil_pn:name="TBFlipFlopJK.vhd"/>
+      <outfile xil_pn:name="TBFlipFlopT2.vhd"/>
+      <outfile xil_pn:name="TBRegistro4Bits3.vhd"/>
+      <outfile xil_pn:name="TBRegistroDesplazamientoSerie4.vhd"/>
+      <outfile xil_pn:name="TBRegistroSemaforo5.vhd"/>
+      <outfile xil_pn:name="TBSemaforoMejorado15.vhd"/>
+    </transform>
+    <transform xil_pn:end_ts="1657841405" xil_pn:name="TRAN_xawsToSimhdl" xil_pn:prop_ck="7235805690289469603" xil_pn:start_ts="1657841405">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1657841405" xil_pn:name="TRAN_schematicsToHdlSim" xil_pn:prop_ck="-1216270592691172005" xil_pn:start_ts="1657841405">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1657801131" xil_pn:name="TRAN_regenerateCoresSim" xil_pn:prop_ck="3966440018301478558" xil_pn:start_ts="1657801131">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1657841405" xil_pn:in_ck="5047561885041615545" xil_pn:name="TRAN_copyPostAbstractToPreSimulation" xil_pn:start_ts="1657841405">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForInputs"/>
+      <status xil_pn:value="OutOfDateForPredecessor"/>
+      <status xil_pn:value="InputAdded"/>
+      <outfile xil_pn:name="ContadorA15_9.vhd"/>
+      <outfile xil_pn:name="ContadorA245_12.vhd"/>
+      <outfile xil_pn:name="ContadorA9_10.vhd"/>
+      <outfile xil_pn:name="ContadorAdcendenteDescendente8.vhd"/>
+      <outfile xil_pn:name="ContadorSecuencia6.vhd"/>
+      <outfile xil_pn:name="ContadorSimple7.vhd"/>
+      <outfile xil_pn:name="Cronometro11.vhd"/>
+      <outfile xil_pn:name="DiagramaDeEstado13.vhd"/>
+      <outfile xil_pn:name="DiagramaDeEstados14.vhd"/>
+      <outfile xil_pn:name="FlipFlopT2.vhd"/>
+      <outfile xil_pn:name="FlipFopJK1.vhd"/>
+      <outfile xil_pn:name="Registro4Bits3.vhd"/>
+      <outfile xil_pn:name="RegistroDesplazamientoSerie4.vhd"/>
+      <outfile xil_pn:name="RegistroSemaforo5.vhd"/>
+      <outfile xil_pn:name="TBContadorA15_9.vhd"/>
+      <outfile xil_pn:name="TBContadorA245_12.vhd"/>
+      <outfile xil_pn:name="TBContadorA9_10.vhd"/>
+      <outfile xil_pn:name="TBContadorAscendenteDescendente8.vhd"/>
+      <outfile xil_pn:name="TBContadorSecuencial6.vhd"/>
+      <outfile xil_pn:name="TBContadorSimple7.vhd"/>
+      <outfile xil_pn:name="TBCronometro11.vhd"/>
+      <outfile xil_pn:name="TBDiagramaDeEstados14.vhd"/>
+      <outfile xil_pn:name="TBDiagramaDesEstado13.vhd"/>
+      <outfile xil_pn:name="TBFlipFlopJK.vhd"/>
+      <outfile xil_pn:name="TBFlipFlopT2.vhd"/>
+      <outfile xil_pn:name="TBRegistro4Bits3.vhd"/>
+      <outfile xil_pn:name="TBRegistroDesplazamientoSerie4.vhd"/>
+      <outfile xil_pn:name="TBRegistroSemaforo5.vhd"/>
+    </transform>
+    <transform xil_pn:end_ts="1657841407" xil_pn:in_ck="5047561885041615545" xil_pn:name="TRAN_ISimulateBehavioralModelRunFuse" xil_pn:prop_ck="3296005905194265315" xil_pn:start_ts="1657841405">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForPredecessor"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="OutputChanged"/>
+      <outfile xil_pn:name="TBDiagramaDeEstados14_beh.prj"/>
+      <outfile xil_pn:name="TBDiagramaDeEstados14_isim_beh.exe"/>
+      <outfile xil_pn:name="fuse.log"/>
+      <outfile xil_pn:name="isim"/>
+      <outfile xil_pn:name="isim.log"/>
+      <outfile xil_pn:name="xilinxsim.ini"/>
+    </transform>
+    <transform xil_pn:end_ts="1657841407" xil_pn:in_ck="-1439264661454704627" xil_pn:name="TRAN_ISimulateBehavioralModel" xil_pn:prop_ck="-1743179309047573104" xil_pn:start_ts="1657841407">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForPredecessor"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="OutputChanged"/>
+      <outfile xil_pn:name="TBDiagramaDeEstados14_isim_beh.wdb"/>
+      <outfile xil_pn:name="isim.cmd"/>
+      <outfile xil_pn:name="isim.log"/>
+    </transform>
+  </transforms>
+
+</generated_project>

@@ -1,0 +1,29 @@
+Command line:
+   TBRegistroSemaforo5_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  58681
+
+Thu Jul 14 17:44:04 2022
+
+
+ Elaboration Time: 0.03125 sec
+
+ Current Memory Usage: 5150.74 Meg
+
+ Total Signals          : 9
+ Total Nets             : 15
+ Total Signal Drivers   : 5
+ Total Blocks           : 3
+ Total Primitive Blocks : 2
+ Total Processes        : 4
+ Total Traceable Variables  : 9
+ Total Scalar Nets and Variables : 376
+Total Line Count : 17
+
+ Total Simulation Time: 0.078125 sec
+
+ Current Memory Usage: 5465.31 Meg
+
+Thu Jul 14 17:44:44 2022
+

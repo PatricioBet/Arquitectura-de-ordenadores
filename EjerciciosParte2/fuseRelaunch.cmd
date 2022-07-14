@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "D:/circuitos/EjerciciosParte2/TBDiagramaDeEstados14_isim_beh.exe" -prj "D:/circuitos/EjerciciosParte2/TBDiagramaDeEstados14_beh.prj" "work.TBDiagramaDeEstados14" 

@@ -1,0 +1,77 @@
+V3 37
+FL D:/circuitos/EjerciciosParte1/FlipFlopT2.vhd 2022/07/10.20:18:16 P.20131013
+FL D:/circuitos/EjerciciosParte1/FlipFopJK1.vhd 2022/07/10.19:59:15 P.20131013
+EN work/FlipFopJK1 1657501157 FL D:/circuitos/EjerciciosParte1/FlipFopJK1.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/std_logic_arith 1381692177 \
+      PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/FlipFopJK1/Behavioral 1657501158 \
+      FL D:/circuitos/EjerciciosParte1/FlipFopJK1.vhd EN work/FlipFopJK1 1657501157
+FL D:/circuitos/EjerciciosParte2/ContadorA15_9.vhd 2022/07/14.18:06:46 P.20131013
+EN work/ContadorA15_9 1657840013 \
+      FL D:/circuitos/EjerciciosParte2/ContadorA15_9.vhd PB ieee/std_logic_1164 1381692176 \
+      PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/ContadorA15_9/Behavioral 1657840014 \
+      FL D:/circuitos/EjerciciosParte2/ContadorA15_9.vhd EN work/ContadorA15_9 1657840013
+FL D:/circuitos/EjerciciosParte2/ContadorA245_12.vhd 2022/07/14.18:18:28 P.20131013
+EN work/ContadorA245_12 1657840710 \
+      FL D:/circuitos/EjerciciosParte2/ContadorA245_12.vhd PB ieee/std_logic_1164 1381692176 \
+      PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/ContadorA245_12/Behavioral 1657840711 \
+      FL D:/circuitos/EjerciciosParte2/ContadorA245_12.vhd \
+      EN work/ContadorA245_12 1657840710
+FL D:/circuitos/EjerciciosParte2/ContadorA9_10.vhd 2022/07/14.18:10:50 P.20131013
+EN work/ContadorA9_10 1657840258 \
+      FL D:/circuitos/EjerciciosParte2/ContadorA9_10.vhd PB ieee/std_logic_1164 1381692176 \
+      PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/ContadorA9_10/Behavioral 1657840259 \
+      FL D:/circuitos/EjerciciosParte2/ContadorA9_10.vhd EN work/ContadorA9_10 1657840258
+FL D:/circuitos/EjerciciosParte2/ContadorSecuencia6.vhd 2022/07/14.17:48:36 P.20131013
+EN work/ContadorSecuencia6 1657838919 \
+      FL D:/circuitos/EjerciciosParte2/ContadorSecuencia6.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/ContadorSecuencia6/Behavioral 1657838920 \
+      FL D:/circuitos/EjerciciosParte2/ContadorSecuencia6.vhd \
+      EN work/ContadorSecuencia6 1657838919
+FL D:/circuitos/EjerciciosParte2/ContadorSimple7.vhd 2022/07/14.17:55:30 P.20131013
+EN work/ContadorSimple7 1657839343 \
+      FL D:/circuitos/EjerciciosParte2/ContadorSimple7.vhd \
+      PB ieee/STD_LOGIC_UNSIGNED 1381692179 PB ieee/std_logic_1164 1381692176
+AR work/ContadorSimple7/Behavioral 1657839344 \
+      FL D:/circuitos/EjerciciosParte2/ContadorSimple7.vhd \
+      EN work/ContadorSimple7 1657839343
+FL D:/circuitos/EjerciciosParte2/Cronometro11.vhd 2022/07/14.18:14:57 P.20131013
+EN work/Cronometro11 1657840505 FL D:/circuitos/EjerciciosParte2/Cronometro11.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/Cronometro11/Behavioral 1657840506 \
+      FL D:/circuitos/EjerciciosParte2/Cronometro11.vhd EN work/Cronometro11 1657840505
+FL D:/circuitos/EjerciciosParte2/DiagramaDeEstado13.vhd 2022/07/14.18:23:36 P.20131013
+EN work/DiagramaDeEstado13 1657841019 \
+      FL D:/circuitos/EjerciciosParte2/DiagramaDeEstado13.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/DiagramaDeEstado13/Behavioral 1657841020 \
+      FL D:/circuitos/EjerciciosParte2/DiagramaDeEstado13.vhd \
+      EN work/DiagramaDeEstado13 1657841019
+FL D:/circuitos/EjerciciosParte2/FlipFlopT2.vhd 2022/07/14.07:26:26 P.20131013
+EN work/FlipFlopT2 1657801597 FL D:/circuitos/EjerciciosParte2/FlipFlopT2.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/FlipFlopT2/Behavioral 1657801598 \
+      FL D:/circuitos/EjerciciosParte2/FlipFlopT2.vhd EN work/FlipFlopT2 1657801597
+FL D:/circuitos/EjerciciosParte2/Registro4Bits3.vhd 2022/07/14.17:26:51 P.20131013
+EN work/Registro4Bits3 1657837614 \
+      FL D:/circuitos/EjerciciosParte2/Registro4Bits3.vhd PB ieee/std_logic_1164 1381692176
+AR work/Registro4Bits3/Behavioral 1657837615 \
+      FL D:/circuitos/EjerciciosParte2/Registro4Bits3.vhd EN work/Registro4Bits3 1657837614
+FL D:/circuitos/EjerciciosParte2/RegistroDesplazamientoSerie4.vhd 2022/07/14.17:35:52 P.20131013
+EN work/RegistroDesplazamientoSerie4 1657838157 \
+      FL D:/circuitos/EjerciciosParte2/RegistroDesplazamientoSerie4.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/RegistroDesplazamientoSerie4/Behavioral 1657838158 \
+      FL D:/circuitos/EjerciciosParte2/RegistroDesplazamientoSerie4.vhd \
+      EN work/RegistroDesplazamientoSerie4 1657838157
+FL D:/circuitos/EjerciciosParte2/SrmaforoMejorado15.vhd 2022/07/14.18:33:38 P.20131013
+EN work/SrmaforoMejorado15 1657841634 \
+      FL D:/circuitos/EjerciciosParte2/SrmaforoMejorado15.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/SrmaforoMejorado15/Behavioral 1657841635 \
+      FL D:/circuitos/EjerciciosParte2/SrmaforoMejorado15.vhd \
+      EN work/SrmaforoMejorado15 1657841634

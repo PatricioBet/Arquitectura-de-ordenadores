@@ -1,0 +1,29 @@
+Command line:
+   TBRegistroDesplazamientoSerie4_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  58663
+
+Thu Jul 14 17:38:50 2022
+
+
+ Elaboration Time: 0.03125 sec
+
+ Current Memory Usage: 5150.75 Meg
+
+ Total Signals          : 5
+ Total Nets             : 9
+ Total Signal Drivers   : 3
+ Total Blocks           : 3
+ Total Primitive Blocks : 2
+ Total Processes        : 4
+ Total Traceable Variables  : 9
+ Total Scalar Nets and Variables : 370
+Total Line Count : 10
+
+ Total Simulation Time: 0.09375 sec
+
+ Current Memory Usage: 5150.75 Meg
+
+Thu Jul 14 17:39:18 2022
+
