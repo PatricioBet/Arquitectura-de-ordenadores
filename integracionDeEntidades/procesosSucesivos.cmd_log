@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "D:/circuitos/integracionDeEntidades/procesosSucesivos.xst" -ofn "D:/circuitos/integracionDeEntidades/procesosSucesivos.syr" 

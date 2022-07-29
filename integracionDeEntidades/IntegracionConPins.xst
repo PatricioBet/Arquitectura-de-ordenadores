@@ -1,0 +1,5 @@
+set -tmpdir "D:/circuitos/integracionDeEntidades/xst/projnav.tmp"
+set -xsthdpdir "D:/circuitos/integracionDeEntidades/xst"
+elaborate
+-ifn IntegracionConPins.prj
+-ifmt mixed

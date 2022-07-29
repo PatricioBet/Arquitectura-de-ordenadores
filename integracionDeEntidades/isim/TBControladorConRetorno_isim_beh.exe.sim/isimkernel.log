@@ -1,0 +1,29 @@
+Command line:
+   TBControladorConRetorno_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  58035
+
+Thu Jul 28 22:40:00 2022
+
+
+ Elaboration Time: 0.03125 sec
+
+ Current Memory Usage: 5150.42 Meg
+
+ Total Signals          : 8
+ Total Nets             : 8
+ Total Signal Drivers   : 4
+ Total Blocks           : 6
+ Total Primitive Blocks : 5
+ Total Processes        : 4
+ Total Traceable Variables  : 16
+ Total Scalar Nets and Variables : 510
+Total Line Count : 27
+
+ Total Simulation Time: 0.09375 sec
+
+ Current Memory Usage: 5464.99 Meg
+
+Thu Jul 28 22:41:00 2022
+

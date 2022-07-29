@@ -1,0 +1,6 @@
+AR integracionconpins behavioral D:/circuitos/integracionDeEntidades/IntegracionConPins.vhd sub00/vhpl03 1659066135
+AR controladoraconretorno behavioral D:/circuitos/integracionDeEntidades/controladoraConRetorno.vhd sub00/vhpl05 1659065931
+AR procesossucesivos behavioral D:/circuitos/integracionDeEntidades/procesosSucesivos.vhd sub00/vhpl01 1659038776
+EN controladoraconretorno NULL D:/circuitos/integracionDeEntidades/controladoraConRetorno.vhd sub00/vhpl04 1659065930
+EN procesossucesivos NULL D:/circuitos/integracionDeEntidades/procesosSucesivos.vhd sub00/vhpl00 1659038775
+EN integracionconpins NULL D:/circuitos/integracionDeEntidades/IntegracionConPins.vhd sub00/vhpl02 1659066134

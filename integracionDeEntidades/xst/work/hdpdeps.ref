@@ -1,0 +1,25 @@
+V3 9
+FL D:/circuitos/integracionDeEntidades/controladoraConRetorno.vhd 2022/07/28.22:38:47 P.20131013
+EN work/controladoraConRetorno 1659065930 \
+      FL D:/circuitos/integracionDeEntidades/controladoraConRetorno.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/STD_LOGIC_UNSIGNED 1381692179 \
+      PB ieee/NUMERIC_STD 1381692181
+AR work/controladoraConRetorno/Behavioral 1659065931 \
+      FL D:/circuitos/integracionDeEntidades/controladoraConRetorno.vhd \
+      EN work/controladoraConRetorno 1659065930
+FL D:/circuitos/integracionDeEntidades/IntegracionConPins.vhd 2022/07/28.22:41:52 P.20131013
+EN work/IntegracionConPins 1659066134 \
+      FL D:/circuitos/integracionDeEntidades/IntegracionConPins.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/std_logic_arith 1381692177 \
+      PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/IntegracionConPins/Behavioral 1659066135 \
+      FL D:/circuitos/integracionDeEntidades/IntegracionConPins.vhd \
+      EN work/IntegracionConPins 1659066134
+FL D:/circuitos/integracionDeEntidades/procesosSucesivos.vhd 2022/07/28.15:06:09 P.20131013
+EN work/procesosSucesivos 1659038775 \
+      FL D:/circuitos/integracionDeEntidades/procesosSucesivos.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/std_logic_arith 1381692177 \
+      PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/procesosSucesivos/Behavioral 1659038776 \
+      FL D:/circuitos/integracionDeEntidades/procesosSucesivos.vhd \
+      EN work/procesosSucesivos 1659038775

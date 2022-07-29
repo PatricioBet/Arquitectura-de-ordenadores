@@ -1,0 +1,2 @@
+vhdl isim_temp "IntegracionConPins.vhd"
+vhdl isim_temp "TBIntegracionConPins.vhd"

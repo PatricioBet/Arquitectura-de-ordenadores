@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "D:/circuitos/integracionDeEntidades/TBIntegracionConPins_isim_beh.exe" -prj "D:/circuitos/integracionDeEntidades/TBIntegracionConPins_beh.prj" "work.TBIntegracionConPins" 
